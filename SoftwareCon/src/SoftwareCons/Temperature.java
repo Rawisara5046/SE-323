@@ -1,5 +1,5 @@
 package SoftwareCons;
 
-public class Temparater {
+public class Temperature {
 	
 }
